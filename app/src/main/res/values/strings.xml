@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidQuizFirebase</string>
+    <string name="exemplo_usuario">Usuario</string>
+    <string name="exemplo_senha">Senha</string>
+    <string name="exemplo_email">Email</string>
+    <string name="exemplo_registrese">Registre-se</string>
+    <string name="exemplo_entrar">Entrar</string>
+    <string name="exemplo_categoria">Categorias</string>
+    <string name="exemplo_categoria_titulo">Categoria</string>
+    <string name="exemplo_jogar">Jogar</string>
+    <string name="exemplo_ranking">Ranking</string>
+    <string name="exemplo_usuario_">bacar</string>
+    <string name="exemplo_senha_">123456</string>
+    <string name="exemplo_pontuacao">0</string>
+    <string name="exemplo_perguntas">1/30</string>
+    <string name="exemplo_pergunta_a">Answer A</string>
+    <string name="exemplo_pergunta_b">Answer B</string>
+    <string name="exemplo_pergunta_c">Answer C</string>
+    <string name="exemplo_pergunta_d">Answer D</string>
+    <string name="exemplo_pontuacao_">Pontuação : 0</string>
+    <string name="exemplo_perguntas_certas">Perg. Certas : 0/30</string>
+    <string name="exemplo_tentar_denovo">Tentar de Novo</string>
+
+</resources>

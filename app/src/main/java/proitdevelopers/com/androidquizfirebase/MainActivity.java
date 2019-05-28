@@ -122,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
                 if (!TextUtils.isEmpty(edtNewUser.getText()) && !TextUtils.isEmpty(edtNewPassword.getText()) &&
                                     !TextUtils.isEmpty(edtNewEmail.getText())){
                     final User user = new User(edtNewUser.getText().toString().trim(),
-                            edtNewPassword.getText().toString().trim(),
+                            edtNewEmail.getText().toString().trim(),
                             edtNewPassword.getText().toString().trim());
 
                 users.addListenerForSingleValueEvent(new ValueEventListener() {

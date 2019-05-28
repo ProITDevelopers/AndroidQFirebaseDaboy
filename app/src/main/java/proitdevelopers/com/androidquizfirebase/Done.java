@@ -3,6 +3,7 @@ package proitdevelopers.com.androidquizfirebase;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ProgressBar;
@@ -57,11 +58,14 @@ public class Done extends AppCompatActivity {
             progressBar.setMax(totalQuestion);
             progressBar.setProgress(correctAnswer);
 
+            Log.i("pontuacao",score + " pontos");
             question_score.child(String.format("%s_%s",Common.currentUser.getUserName(),Common.categoryId))
                     .setValue(new QuestionStore(String.format("%s_%s",Common.currentUser.getUserName(),
                             Common.categoryId),
                             Common.currentUser.getUserName(),
-                            String.valueOf(score)));
+                            String.valueOf(score),
+                            Common.categoryId,
+                            Common.categoryName));
         }
     }
 }

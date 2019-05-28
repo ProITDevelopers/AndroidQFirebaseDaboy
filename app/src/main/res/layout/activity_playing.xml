@@ -21,6 +21,7 @@
         android:visibility="invisible"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:textColor="@android:color/white"
         android:layout_marginTop="25dp"
         android:gravity="center"
         android:layout_width="match_parent"

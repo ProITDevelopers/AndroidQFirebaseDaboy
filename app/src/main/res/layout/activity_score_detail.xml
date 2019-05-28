@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".RankingFragment">
+    android:background="@color/colorPrimary"
+    tools:context=".ScoreDetail">
 
     <android.support.v7.widget.CardView
         android:id="@+id/title"
@@ -46,11 +47,9 @@
 
     <android.support.v7.widget.RecyclerView
         android:layout_below="@+id/title"
-        android:id="@+id/rankingList"
+        android:id="@+id/scoreList"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
-
 
     </android.support.v7.widget.RecyclerView>
 

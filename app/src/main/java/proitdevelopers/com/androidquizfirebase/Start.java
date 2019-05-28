@@ -49,10 +49,8 @@ public class Start extends AppCompatActivity {
 
     private void loadQuestion(String categoryId) {
 
-        //Primeiro limpar a lista se tiver valores
-
         if (Common.questionList.size()>0)
-            Common.questionList.clear();
+            Common.questionList.clear(); //Primeiro limpar a lista se tiver valores
 
         questions.orderByChild("CategoryId").equalTo(categoryId)
                 .addValueEventListener(new ValueEventListener() {

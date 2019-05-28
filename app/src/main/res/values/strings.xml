@@ -20,5 +20,9 @@
     <string name="exemplo_pontuacao_">Pontuação : 0</string>
     <string name="exemplo_perguntas_certas">Perg. Certas : 0/30</string>
     <string name="exemplo_tentar_denovo">Tentar de Novo</string>
+    <string name="exemplo_nome">Nome</string>
+    <string name="exemplo_categoria_nome">Categoria</string>
+    <string name="exemplo_pontuacao_desc">Pontuação</string>
+    <string name="exemplo_pontos">Pontos</string>
 
 </resources>

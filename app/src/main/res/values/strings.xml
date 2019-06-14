@@ -8,7 +8,7 @@
     <string name="exemplo_categoria">Categorias</string>
     <string name="exemplo_categoria_titulo">Categoria</string>
     <string name="exemplo_jogar">Jogar</string>
-    <string name="exemplo_ranking">Ranking</string>
+    <string name="exemplo_ranking">Classificação</string>
     <string name="exemplo_usuario_">bacar</string>
     <string name="exemplo_senha_">123456</string>
     <string name="exemplo_pontuacao">0</string>
@@ -20,7 +20,7 @@
     <string name="exemplo_pontuacao_">Pontuação : 0</string>
     <string name="exemplo_perguntas_certas">Perg. Certas : 0/30</string>
     <string name="exemplo_tentar_denovo">Tentar de Novo</string>
-    <string name="exemplo_nome">Nome</string>
+    <string name="exemplo_nome">Jogador</string>
     <string name="exemplo_categoria_nome">Categoria</string>
     <string name="exemplo_pontuacao_desc">Pontuação</string>
     <string name="exemplo_pontos">Pontos</string>

@@ -2,10 +2,10 @@
 <resources>
     <color name="colorPrimary">#2d2f3c</color>
     <color name="colorCinza">#4F0e0d0e</color>
-    <color name="colorLaranja">#FF8a80</color>
+    <color name="colorLaranja">#2731ea</color> <!--FFFF8A80 -->
     <color name="colorRosa">#AD1457</color>
     <color name="colorFundo">#e5e7d2</color>
-    <color name="colorMeioAmarela">#abae69</color>
+    <color name="colorMeioAmarela">#0f4de2</color> <!--abae69-->
     <color name="colorPrimaryDark">#030516</color>
     <color name="colorAccent">#565866</color>
     <color name="colorAzul">#1CB3BC</color>

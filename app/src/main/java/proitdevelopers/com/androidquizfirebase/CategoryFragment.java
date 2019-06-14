@@ -88,9 +88,7 @@ public class CategoryFragment extends Fragment {
                         startActivity(startGame);
                     }
                 });
-
             }
-
 
             @NonNull
             @Override

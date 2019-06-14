@@ -49,7 +49,6 @@ public class ScoreDetail extends AppCompatActivity {
                 loadScoreDetail(viewUser);
             }
         }
-
     }
 
     private void loadScoreDetail(String viewUser) {
